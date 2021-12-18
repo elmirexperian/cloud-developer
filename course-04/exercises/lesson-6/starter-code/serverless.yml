@@ -1,4 +1,5 @@
-service: serverless-udagram-app
+service:
+  name: serverless-udagram-app
 
 plugins:
   - serverless-webpack
